@@ -7,14 +7,14 @@ body{
 }
 #mainHeading{
     color: red;
-    color: rgb(145, 14, 14); 
+    /* color: rgb(145, 14, 14);  */
     background-color: #f2be22;
     font-size: 4rem;
     text-align: center;
 }
 #funParagraph{
     color: green;
-    color: rgb(34, 224, 157);
+    /* color: rgb(34, 224, 157); */
     padding-left: 5px;
     padding-right: 5px;
     text-align: center;
